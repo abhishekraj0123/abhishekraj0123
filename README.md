@@ -3,7 +3,7 @@
 🚀 **DevOps Engineer | Docker | Kubernetes | AWS | CI/CD**
 
 ## 🌟 About Me
-- 🛠 **1+ year of experience in DevOps**
+- 🛠 **2+ year of experience in DevOps**
 - 🎯 Passionate about **Automation, Cloud, and CI/CD Pipelines**
 - 🌍 Open to **DevOps roles in Noida or Gurugram**
 - 📈 Actively building **Docker, Kubernetes, and AWS projects**
