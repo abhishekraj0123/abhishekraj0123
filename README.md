@@ -25,7 +25,7 @@
 - 📜 **Portfolio:** [GitHub Portfolio](https://github.com/abhishekraj0123)
 - 🐳 **Docker Hub:** [abh1234](https://hub.docker.com/u/abh1234)
 - 💼 **LinkedIn:** [Abhishek Raj](https://www.linkedin.com/in/your-profile)
-- 📫 **Email:** your-email@example.com
+- 📫 **Email:** your-abhgupta11@example.com
 
 ## 📌 Featured Projects
 ### 1️⃣ **Apache Web Server Monitoring with Grafana & Prometheus**
