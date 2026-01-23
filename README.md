@@ -1,42 +1,72 @@
-# Hi, I'm Abhishek Raj! 👋
+# 👋 Hi, I'm Abhishek Raj
 
-🚀 **DevOps Engineer | Docker | Kubernetes | AWS | CI/CD**
+🚀 DevOps / Cloud Engineer with 3+ years of hands-on experience in AWS, Kubernetes, CI/CD, and infrastructure automation.
 
-## 🌟 About Me
-- 🛠 **2+ year of experience in DevOps**
-- 🎯 Passionate about **Automation, Cloud, and CI/CD Pipelines**
-- 🌍 Open to **DevOps roles in Noida or Gurugram**
-- 📈 Actively building **Docker, Kubernetes, and AWS projects**
-- 🤖 Created **Raj Bot** for automated DevOps job applications
-
-## 🔧 Tech Stack
-![Docker](https://img.shields.io/badge/Docker-%230076D6.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekraj0123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekraj0123&layout=compact&theme=tokyonight)
-
-## 🔗 Connect with Me
-- 📜 **Portfolio:** [GitHub Portfolio](https://github.com/abhishekraj0123)
-- 🐳 **Docker Hub:** [abh1234](https://hub.docker.com/u/abh1234)
-- 💼 **LinkedIn:** [Abhishek Raj](https://www.linkedin.com/in/your-profile)
-- 📫 **Email:** -abhgupta11@example.com
-
-## 📌 Featured Projects
-### 1️⃣ **Apache Web Server Monitoring with Grafana & Prometheus**
-🚀 Monitoring Apache with **Prometheus, Grafana, and Node Exporter**
-
-### 2️⃣ **GitHub + Docker Hub Automatic Portfolio Setup**
-🤖 Auto-update **GitHub and Docker Hub portfolios** with latest projects
-
-### 3️⃣ **AWS EC2 Auto Deploy & Telegram Notifications**
-📩 Receive **job updates in Telegram group 'mera devops'** & auto-deploy on **AWS EC2**
+I work on designing, deploying, and supporting scalable cloud-native applications with a strong focus on reliability, automation, and monitoring.
 
 ---
-💡 **Looking for DevOps roles in Noida or Gurugram** | 🚀 **Let's connect!**
 
+## 🔧 Tech Stack
+
+**Cloud & Infrastructure**
+- AWS (EC2, VPC, RDS, IAM, ELB, Route53)
+- Terraform, Ansible
+
+**Containers & Orchestration**
+- Docker, Docker Compose
+- Kubernetes, Helm
+
+**CI/CD**
+- Jenkins
+- GitHub Actions
+
+**Monitoring & Reliability**
+- Prometheus, Grafana
+- CloudWatch, Nagios
+- Alertmanager (SNS)
+
+**Scripting**
+- Bash
+- Python (boto3)
+
+---
+
+## 💼 Professional Experience
+
+### Cloud & DevOps Engineer  
+**Inn-Think Technologies Pvt Ltd** (Jun 2023 – Present)
+
+- Designed and maintained a highly available AWS environment supporting 10k+ daily users.
+- Automated provisioning of 30+ EC2 servers using Ansible.
+- Built CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment time from 45 minutes to 5 minutes.
+- Deployed containerized applications on Kubernetes using Helm with blue-green deployments.
+- Implemented monitoring and alerting using Prometheus, Grafana, CloudWatch, and Nagios.
+- Authored runbooks and supported incident response activities.
+
+---
+
+## 📌 Key Projects
+
+### 🔹 CRM Application on AWS
+- Deployed on EC2 with MySQL RDS
+- Jenkins CI/CD pipeline
+- Achieved 85% faster release cycles
+
+### 🔹 Ansible Automation
+- Reusable playbooks to manage 20+ EC2 instances
+- Reduced manual configuration effort
+
+### 🔹 Kubernetes Cluster Setup
+- Cluster provisioning using Ansible
+- Application deployment using Helm
+
+### 🔹 Nginx Reverse Proxy
+- Dockerized Nginx with SSL automation
+- Improved application latency by 30%
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/abhishekraj0123
+- LinkedIn: https://linkedin.com/in/abhishek-raj-558713184
+- Email: abhgupta11@gmail.com
